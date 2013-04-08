@@ -1,0 +1,87 @@
+BODY {
+	scrollbar-face-color: #E3DFE0;
+	scrollbar-shadow-color: #000000;
+	scrollbar-highlight-color: #000000;
+	scrollbar-3dlight-color: #E3DFE0;
+	scrollbar-darkshadow-color: #E3DFE0;
+	scrollbar-track-color: #E3DFE0;
+	scrollbar-arrow-color: #000000;
+	background-color: #e1e6f2;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+ }
+
+INPUT {
+	BORDER-RIGHT: 1px solid; 
+	BORDER-TOP: 1px solid; 
+	FONT-SIZE: 10px; 
+	BORDER-LEFT: 1px solid; 
+	COLOR: #000000; 
+	BORDER-BOTTOM: 1px solid; 
+	FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; 
+	BACKGROUND-COLOR: #ffffff
+}
+TEXTAREA {
+	BORDER-RIGHT: 1px solid; 
+	BORDER-TOP: 1px solid; 
+	FONT-SIZE: 10px; 
+	BORDER-LEFT: 1px solid; 
+	COLOR: #000000; 
+	BORDER-BOTTOM: 1px solid; 
+	FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; 
+	BACKGROUND-COLOR: #ffffff
+}
+SELECT {
+	BORDER-RIGHT: 1px solid; 
+	BORDER-TOP: 1px solid; 
+	FONT-SIZE: 10px; 
+	BORDER-LEFT: 1px solid; 
+	COLOR: #000000; 
+	BORDER-BOTTOM: 1px solid; 
+	FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; 
+	BACKGROUND-COLOR: #ffffff
+}
+A {
+	TEXT-DECORATION: none;
+	color: #000000;
+}
+A:visited {
+	TEXT-DECORATION: none;
+}
+A:hover {
+	TEXT-DECORATION: underline;
+}
+A:active {
+	TEXT-DECORATION: underline;
+}
+.contato { 
+    FONT-WEIGHT: normal; 
+	FONT-SIZE: 11px; 
+}
+
+.titulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #485573;
+
+}
+
+.subtitulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+
+}
+
+
+.texto {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+.menu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
